@@ -1,0 +1,212 @@
+@charset "utf-8";
+/* CSS Document */
+a:link {
+	color: #FFCA6E;
+	text-decoration: none;
+}
+p    {
+			font-family:verdana;
+			font-size: 18px; 
+			line-height: 22px; 
+			font-style: italic; 
+			text-align: left;
+			color: #000;
+			} 
+		#container{
+			width:400px;
+			height:900px;
+			background-color: lightgrey;
+			margin-right: auto;
+			margin-left: auto;
+		}
+		#containerUnlock{
+			width:400px;
+			height:900px;
+			background-color: #6bd068;
+			margin-right: auto;
+			margin-left: auto;
+		}
+		#containerLock{
+			width:400px;
+			height:900px;
+			background-color: #D06868;
+			margin-right: auto;
+			margin-left: auto;
+		}
+		#columnLeft{
+			width: 200px;
+			height: 600px;
+			background-color: antiquewhite;
+			margin-left: 100px;
+	
+		}
+		#headerBox{
+			width: 400px;
+			height: 50px;
+			background-color: lightgrey;	
+}
+		#headerUnlock{
+			width: 400px;
+			height: 50px;
+			background-color: #6BD068;
+}
+		#headerLock{
+			width: 400px;
+			height: 50px;
+			background-color: #D06868;
+}
+		#topBox {
+			width: 400px;
+			height: 400px;
+			background-color: lightgrey;
+			margin-right: auto; 
+			margin-left: auto;
+			margin-top: auto; 
+			
+		}
+		#topBox2 {
+			width: 400px;
+			height: 400px;
+			background-color: lightgrey;
+			margin-right: auto; 
+			margin-left: auto;
+			margin-top: auto; 
+		}
+		#topBoxUnlock {
+			width: 400px;
+			height: 300px;
+			background-color: #6BD068;
+			margin-right: auto; 
+			margin-left: auto;
+			margin-top: auto; 
+		}
+		#topBoxLock {
+			width: 400px;
+			height: 300px;
+			background-color: #D06868;
+			margin-right: auto; 
+			margin-left: auto;
+			margin-top: auto; 
+		}
+		#middleBox{
+			width: 400px;
+			height: 400px;
+			background-color: lightgrey;
+			text-align: center;
+}
+		#middleBoxUnlock{
+			width: 400px;
+			height: 10px;
+			background-color: #6BD068;
+			text-align: center;
+}
+		#middleBoxLock{
+			width: 400px;
+			height: 10px;
+			background-color: #D06868;
+			text-align: center;
+}
+		#buffer{
+			width: 400px;
+			height: 50px;
+			background-color: #6bd068
+}
+		#bufferLock{
+			width: 400px;
+			height: 50px;
+			background-color: #D06868
+}
+		#bottomBox {
+			width: 400px;
+			height: 400px;
+			background-color: lightgrey;
+		}
+		#bottomBox2 {
+			width: 400px;
+			height: 50px;
+			background-color: lightgrey;
+		}
+		#bottomBoxUnlock {
+			width: 400px;
+			height: 50px;
+			background-color: #6BD068;
+		}
+		#bottomBoxLock {
+			width: 400px;
+			height: 50px;
+			background-color: #D06868;
+		}
+		#button1{
+			width: 350px;
+			height: 100px;
+			background-color: #FFCA6E;
+			margin-right: auto;
+			margin-left: auto;
+			text-align: center;
+		}
+		#button2{
+			width: 200px;
+			height: 50px;
+			line-height: 280%;
+			background-color: #A6A6A6;
+			margin-right: auto;
+			margin-left: auto;
+			text-align: center;
+		}
+		#button3{
+			width: 200px;
+			height: 50px;
+			background-color: white;
+			margin-right: auto;
+			margin-left: auto;
+			text-align: center;
+		}
+h1{
+	color: black;
+	font-size: 80px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+h2{
+	color: dimgrey;
+	font-size: 40px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+h3{
+	color: black;
+	font-size: 40px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+buttontext{
+	color: dimgrey;
+	
+	font-size: 25px;
+	font-weight: bold;
+	text-transform: uppercase;
+	vertical-align: middle;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+
+
+
+
+
+
+
+
+
