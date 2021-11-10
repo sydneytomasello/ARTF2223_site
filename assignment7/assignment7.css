@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+p    {
+		font-family:verdana;
+		font-size: 18px; 
+		line-height: 22px; 
+		font-style: normal; 
+		text-align: left;
+		color: #000;
+			} 
+#container{
+			width:1450px;
+			height:850px;
+			background-color: white;
+			margin-right: auto;
+			margin-left: auto;
+		}
+#titleBox{
+	width: 1450px;
+	height: 130px;
+	background-color: white;
+	margin-right: auto;
+	margin-left: auto;
+}
+#copyBox{
+	width: 825px;
+	height: 600px;
+	background-color: white;
+	align-content: center;
+	margin-left: inherit;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 25px;
+}
+#imageholder{
+	width: 550px;
+	height: 520px;
+	float: left;
+}
+h1{	
+	color: black;
+	font-size: 80px;
+	font-weight: bolder;
+	text-transform: capitalize;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+copy{
+	font-size: 24px;
+	font-weight: normal;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+@media screen and (max-width:420px){/*for smaller devices*/
+	#container {
+		width: 420px;
+		height: 900px;
+		background-color: aqua;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	#titleBox {
+		width: 420px;
+		height: 143px;
+		background-color: white;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	#imageholder{
+	width: 420px;
+	height: 280px;
+	background-color: white;
+}
+	#copyBox{
+	width: 420px;
+	height: 420px;
+	background-color: white;
+	align-content: center;
+	margin-left: inherit;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 25px;
+}
+}
