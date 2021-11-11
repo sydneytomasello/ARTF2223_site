@@ -50,11 +50,11 @@ copy{
 	font-weight: normal;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
 }
-@media screen and (max-width:420px){
+@media screen and (max-width: 420px){
 	#container {
 		width: 420px;
 		height: 900px;
-		background-color: aqua;
+		background-color: white;
 		margin-right: auto;
 		margin-left: auto;
 	}
@@ -66,8 +66,8 @@ copy{
 		margin-left: auto;
 	}
 	#imageholder{
-	width: 420px;
-	height: 280px;
+	width: 80%;
+	height: auto;
 	background-color: white;
 }
 	#copyBox{
