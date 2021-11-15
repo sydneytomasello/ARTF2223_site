@@ -74,10 +74,9 @@ copy{
 		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
 	}
 	#imageholder{
-	width: 80%;
+	width: 100%;
 	height: auto;
 	background-color: white;
-	float: none;
 }
 	#copyBox{
 	width: 420px;
