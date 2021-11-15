@@ -65,6 +65,14 @@ copy{
 		margin-right: auto;
 		margin-left: auto;
 	}
+	h1{
+		color: black;
+		font-size: 50px;
+		font-weight: bolder;
+		text-transform: capitalize;
+		text-align: center;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+	}
 	#imageholder{
 	width: 80%;
 	height: auto;

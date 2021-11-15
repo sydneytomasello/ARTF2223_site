@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+p    {
+		font-family:verdana;
+		font-size: 18px; 
+		line-height: 22px; 
+		font-style: normal; 
+		text-align: left;
+		color: #000;
+			} 
+#container{
+			width:420px;
+			height:900px;
+			background-color: white;
+			margin-right: auto;
+			margin-left: auto;
+		}
+#titleBox{
+	width: 420px;
+	height: 143px;
+	background-color: white;
+	margin-right: auto;
+	margin-left: auto;
+}
+#copyBox{
+	width: 420px;
+	height: 420px;
+	background-color: white;
+	align-content: center;
+	margin-left: inherit;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 25px;
+}
+#imageholder{
+	width: 420px;
+	height: 310px;
+	float: left;
+}
+h1{	
+	color: black;
+	font-size: 50px;
+	font-weight: bolder;
+	text-transform: capitalize;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+copy{
+	font-size: 20px;
+	font-weight: normal;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
