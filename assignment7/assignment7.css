@@ -50,8 +50,8 @@ copy{
 	font-weight: normal;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
 }
-@media screen and (max-width: 420px){
-	#container {
+@media screen and (max-width: 1100px){
+	#container{ 
 		width: 420px;
 		height: 900px;
 		background-color: white;
